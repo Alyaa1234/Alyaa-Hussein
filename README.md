@@ -28,23 +28,20 @@
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 <p align="center">
-  <a href='https://www.linkedin.com/in/alyaa-hussein-5bb933254' target='_blank'><img  height="40" width="40" align="center" src='https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png' alt='LinkedIn'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href='https://www.linkedin.com/in/alyaa-hussein-5bb933254' target='_blank'><img  height="40" width="40" align="center" src='https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png' alt='LinkedIn'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   
 <a href='mailto:alyaah131@gmail.com' target='_blank'><img  height="40" width="40" align="center" src='https://github.com/AbrarKhalil26/AbrarKhalil26/blob/main/images/gmail.png' alt='Gmail'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href='https://github.com/Alyaa1234/Alyaa-Hussein' target='_blank'><img  height="40" width="40" align="center" src='https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png' alt='GitHub'/></a>&nbsp;&nbsp;
+
+<a href='https://github.com/Alyaa1234/Alyaa-Hussein' target='_blank'><img  height="40" width="40" align="center" src='https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png' alt='GitHub'/></a>&nbsp;&nbsp;
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Programming languages
 <p align="center"> 
-  &emsp;
-  <a href="#"> <img width="40" alt="C++" src="https://techstack-generator.vercel.app/cpp-icon.svg"></a> 
-  &emsp;
+  
   <a href="#"> <img width="60" alt="JavaScript" src="https://techstack-generator.vercel.app/js-icon.svg"></a>
   &emsp;
-  <a href="#"> <img width="40" alt="Java" src="https://techstack-generator.vercel.app/java-icon.svg"></a>
-  &emsp;
-  <a href="#"> <img width="40" alt="Python" src="https://techstack-generator.vercel.app/python-icon.svg"></a>
+  
 </p>
 
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=5%>  Frontend Development
@@ -58,20 +55,20 @@
     &emsp;
     <a href="#"> <img width="40" alt="ES6" src="https://ih1.redbubble.net/image.438907151.6117/st,small,507x507-pad,600x600,f8f8f8.u1.jpg"></a>
     &emsp;
-    <a href="#"> <img width="40" alt="JSON" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/2a4c60e1-4fc0-4962-9349-fdb241ab06af"></a>
-    &emsp;
+  <!--  <a href="#"> <img width="40" alt="JSON" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/2a4c60e1-4fc0-4962-9349-fdb241ab06af"></a>
+    &emsp;-->
     <a href="#"> <img width="40" alt="NPM" src="https://static-00.iconduck.com/assets.00/npm-icon-2048x2048-8sw7kisf.png"></a>
     &emsp;
     <a href="#"> <img width="40" alt="React" src="https://techstack-generator.vercel.app/react-icon.svg"></a> 
     &emsp;
     <a href="#"> <img width="40" alt="React-Router" src="https://miro.medium.com/v2/resize:fit:512/1*0FyDA9f-ncxV0eK7OqtR9A.png"></a> 
     &emsp;
-    <a href="#"> <img width="40" alt="Redux" src="https://techstack-generator.vercel.app/redux-icon.svg"></a>
+  <!--  <a href="#"> <img width="40" alt="Redux" src="https://techstack-generator.vercel.app/redux-icon.svg"></a>
     &emsp;
     <a href="#"> <img width="40" alt="API" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/378440fb-3f51-4a4d-83be-050c215352db"></a>
     &emsp;
     <a href="#"> <img width="40" alt="Axios" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/bd9f57fd-ad57-41a1-bbd2-08f928adb168"></a>
-    &emsp;
+    &emsp;-->
     <a href="#"> <img width="40" alt="Tailwind" src="https://skillicons.dev/icons?i=tailwind"></a>
     &emsp;
     <a href="#"> <img width="40" alt="Bootstrap" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/08fb9595-7cba-4ecc-af2a-0596f0d38542"></a>
