@@ -89,15 +89,15 @@
     &emsp;
     <a href="#"> <img width="40" alt="Firebase" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png"></a>
     &emsp;
-    <a href="#"> <img width="40" alt="Matlab" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1144px-Matlab_Logo.png"></a>
+<!--    <a href="#"> <img width="40" alt="Matlab" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1144px-Matlab_Logo.png"></a>-->
  </p>
 
  ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=5%> IDEs
   <p align="center"> 
     &emsp;
     <a href="#"> <img width="40" alt="vscode" src="https://skillicons.dev/icons?i=vscode"></a>
-    &emsp;
-    <a href="#"> <img width="40" alt="jetbrains" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png"></a>
+ <!--   &emsp;
+    <a href="#"> <img width="40" alt="jetbrains" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png"></a> -->
   </p>
   
 ---
@@ -116,7 +116,7 @@
   <img align='right' width='35%' alt='TopLanguage' src='https://github-readme-stats.vercel.app/api/top-langs/?username=AbrarKhalil26&layout=compact'/>
 </details>
 
-
+<!--
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
 ----
