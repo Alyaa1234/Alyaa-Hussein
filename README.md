@@ -28,11 +28,10 @@
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 <p align="center">
-  <a href='https://www.linkedin.com/in/abrarkhalil26/' target='_blank'><img  height="40" width="40" align="center" src='https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png' alt='LinkedIn'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href='https://www.facebook.com/basma.star.789/' target='_blank'><img  height="40" width="40" align="center" src='https://github.com/AbrarKhalil26/AbrarKhalil26/blob/main/images/facebook.png' alt='Facebook'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href='' target='_blank'><img  height="40" width="40" align="center" src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/767px-WhatsApp.svg.png' alt='Whatsapp'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href='mailto:abrarkhalil135@gmail.com' target='_blank'><img  height="40" width="40" align="center" src='https://github.com/AbrarKhalil26/AbrarKhalil26/blob/main/images/gmail.png' alt='Gmail'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href='https://github.com/AbrarKhalil26' target='_blank'><img  height="40" width="40" align="center" src='https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png' alt='GitHub'/></a>&nbsp;&nbsp;
+  <a href='https://www.linkedin.com/in/alyaa-hussein-5bb933254' target='_blank'><img  height="40" width="40" align="center" src='https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png' alt='LinkedIn'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
+<a href='mailto:alyaah131@gmail.com' target='_blank'><img  height="40" width="40" align="center" src='https://github.com/AbrarKhalil26/AbrarKhalil26/blob/main/images/gmail.png' alt='Gmail'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href='https://github.com/Alyaa1234/Alyaa-Hussein' target='_blank'><img  height="40" width="40" align="center" src='https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png' alt='GitHub'/></a>&nbsp;&nbsp;
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
