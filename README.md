@@ -14,7 +14,7 @@
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">-->
 
  <!-- <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%>--> 
-##  <img align="right" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width=6.5%>About me
+##  <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 - 🔭 I am a Senior at the Faculty of Computers & Informatics at Suez Canal University.
   
 - 👀 I’m interested in web development
@@ -40,13 +40,6 @@
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
-### <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width = 5%>  Programming languages
-<p align="center"> 
-  
-  <a href="#"> <img width="60" alt="JavaScript" src="https://techstack-generator.vercel.app/js-icon.svg"></a>
-  &emsp;
-  
-</p>
 
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=5%>  Frontend Development
 <p align="center"> 
@@ -59,20 +52,12 @@
     &emsp;
     <a href="#"> <img width="40" alt="ES6" src="https://ih1.redbubble.net/image.438907151.6117/st,small,507x507-pad,600x600,f8f8f8.u1.jpg"></a>
     &emsp;
-  <!--  <a href="#"> <img width="40" alt="JSON" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/2a4c60e1-4fc0-4962-9349-fdb241ab06af"></a>
-    &emsp;-->
     <a href="#"> <img width="40" alt="NPM" src="https://static-00.iconduck.com/assets.00/npm-icon-2048x2048-8sw7kisf.png"></a>
     &emsp;
     <a href="#"> <img width="40" alt="React" src="https://techstack-generator.vercel.app/react-icon.svg"></a> 
     &emsp;
     <a href="#"> <img width="40" alt="React-Router" src="https://miro.medium.com/v2/resize:fit:512/1*0FyDA9f-ncxV0eK7OqtR9A.png"></a> 
     &emsp;
-  <!--  <a href="#"> <img width="40" alt="Redux" src="https://techstack-generator.vercel.app/redux-icon.svg"></a>
-    &emsp;
-    <a href="#"> <img width="40" alt="API" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/378440fb-3f51-4a4d-83be-050c215352db"></a>
-    &emsp;
-    <a href="#"> <img width="40" alt="Axios" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/bd9f57fd-ad57-41a1-bbd2-08f928adb168"></a>
-    &emsp;-->
     <a href="#"> <img width="40" alt="Tailwind" src="https://skillicons.dev/icons?i=tailwind"></a>
     &emsp;
     <a href="#"> <img width="40" alt="Bootstrap" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/08fb9595-7cba-4ecc-af2a-0596f0d38542"></a>
@@ -93,15 +78,12 @@
     &emsp;
     <a href="#"> <img width="40" alt="Firebase" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png"></a>
     &emsp;
-<!--    <a href="#"> <img width="40" alt="Matlab" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1144px-Matlab_Logo.png"></a>-->
  </p>
 
  ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=5%> IDEs
   <p align="center"> 
     &emsp;
     <a href="#"> <img width="40" alt="vscode" src="https://skillicons.dev/icons?i=vscode"></a>
- <!--   &emsp;
-    <a href="#"> <img width="40" alt="jetbrains" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png"></a> -->
   </p>
   
 ---
