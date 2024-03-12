@@ -3,9 +3,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Computer+Scinece+student; Frontend+Devoleper;&font=Fira%20Code&center=true&size=30&width=600&height=150&duration=4000&pause=1000">
 </p>
-<!-- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
- -->
- <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="400">
+
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="400">
 
 <!-- <img align="right" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="400">-->
 
@@ -27,11 +26,17 @@
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 <p align="center">
-<a href='https://www.linkedin.com/in/alyaa-hussein-5bb933254' target='_blank'><img  height="40" width="40" align="center" src='https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png' alt='LinkedIn'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href='https://www.linkedin.com/in/alyaa-hussein-5bb933254' target='_blank'>
+    <img  height="40" width="40" align="center" src='https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png' alt='LinkedIn'/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
-<a href='mailto:alyaah131@gmail.com' target='_blank'><img  height="40" width="40" align="center" src='https://github.com/AbrarKhalil26/AbrarKhalil26/blob/main/images/gmail.png' alt='Gmail'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href='mailto:alyaah131@gmail.com' target='_blank'>
+   <img  height="40" width="40" align="center" src='https://github.com/AbrarKhalil26/AbrarKhalil26/blob/main/images/gmail.png' alt='Gmail'/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href='https://github.com/Alyaa1234/Alyaa-Hussein' target='_blank'><img  height="40" width="40" align="center" src='https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png' alt='GitHub'/></a>&nbsp;&nbsp;
+  <a href='https://github.com/Alyaa1234/Alyaa-Hussein' target='_blank'>
+   <img  height="40" width="40" align="center" src='https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png' alt='GitHub'/>
+  </a>&nbsp;&nbsp;
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
