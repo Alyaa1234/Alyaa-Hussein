@@ -6,15 +6,8 @@
 
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="400">
 
-<!-- <img align="right" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="400">-->
 
-
-<!-- <img align="right" src="https://user-images.githubusercontent.com/74038190/219925452-a3b0d96d-6b65-45ee-b68a-b2208011b26c.jpg" width="200" />
-
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">-->
-
- <!-- <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%>--> 
-## <img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" width=6.5% /><img src="https://user-images.githubusercontent.com/74038190/212259363-d40b7a35-375b-470c-b4e2-2d9cb8ac706c.png" width=6.5% />About me 
+## <img src="https://user-images.githubusercontent.com/74038190/212259363-d40b7a35-375b-470c-b4e2-2d9cb8ac706c.png" width=6.5% />About me 
 - 🔭 I am a Senior at the Faculty of Computers & Informatics at Suez Canal University.
   
 - 👀 I’m interested in web development
