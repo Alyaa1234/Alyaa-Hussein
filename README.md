@@ -27,9 +27,6 @@
    <img  height="40" width="40" align="center" src='https://github.com/AbrarKhalil26/AbrarKhalil26/blob/main/images/gmail.png' alt='Gmail'/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href='https://github.com/Alyaa1234/Alyaa-Hussein' target='_blank'>
-   <img  height="40" width="40" align="center" src='https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png' alt='GitHub'/>
-  </a>&nbsp;&nbsp;
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
@@ -79,53 +76,3 @@
     <a href="#"> <img width="40" alt="vscode" src="https://skillicons.dev/icons?i=vscode"></a>
   </p>
   
----
-  
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-  
-----
-  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=AbrarKhalil26&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="Abrar" /></p>
-</details>
-
-
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-  
-----
-  <img align='left' width='49%' alt='myStats' src='https://github-readme-stats.vercel.app/api?username=AbrarKhalil26&show_icons=true&theme=tokyonight'/>
-  <img align='right' width='35%' alt='TopLanguage' src='https://github-readme-stats.vercel.app/api/top-langs/?username=AbrarKhalil26&layout=compact'/>
-</details>
-
-<!--
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
-
-----
-	
-<div>
-  <p align="center">
-    <a href="https://github.com/AbrarKhalil26/YouTube-Project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbrarKhalil26&repo=YouTube-Project&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-  <p align="center">
-    <a href="https://github.com/AbrarKhalil26/Fitness-Project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbrarKhalil26&repo=Fitness-Project&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/AbrarKhalil26/Food_Project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbrarKhalil26&repo=Food_Project&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/AbrarKhalil26/Flight-Booking">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbrarKhalil26&repo=Flight-Booking&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/AbrarKhalil26/Netbook">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbrarKhalil26&repo=Netbook&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/AbrarKhalil26/Social-Media-Circuit">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbrarKhalil26&repo=Social-Media-Circuit&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/AbrarKhalil26/Events">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbrarKhalil26&repo=Events&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/AbrarKhalil26/Age-Calculator-Application">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbrarKhalil26&repo=Age-Calculator-Application&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
